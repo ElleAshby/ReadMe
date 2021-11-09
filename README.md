@@ -48,6 +48,10 @@ These two worlds also collide, mixing digital and physical processes. The works 
 
 Similarly, these two communities struggle with exclusivity. Dance is taught through learning the language of notation or attending expensive lessons. This is also seen through computing, there's plenty of exposure to see the website and apps, however you have to share the codingand have specialist knowledge to understand th process.
 
+
+
+![side-image](https://user-images.githubusercontent.com/93981347/140969513-d1f62525-4cda-4700-8b1f-cb6cebfc7993.png)
+
 -----------------------------------------------------------------------------------------------
 
 Open sourcing can allow people to collaborate, edit, change and adjust the code allowing their own personal mark and this can also be seen through dance. Dancers take elements of routines and combine them together to form new and interesting sequences. This collaboration fosters a stronger relationship between the creator and the user.
