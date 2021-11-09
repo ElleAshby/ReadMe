@@ -42,7 +42,6 @@ These two communities share similar themes and challenges. Like the use of open 
 
 These two worlds also collide, mixing digital and physical processes. The works of Merce Cunningham explores the relationship between algorithms and sequential arrangements of movement. 'Suite By Chance' used detailed charts which took moonths to complete and organise...
 
-![Double Agent](https://user-images.githubusercontent.com/93981347/140962288-45eaf2e7-a4d3-4fd8-a423-0933ff83ff84.jpg)
 
 ----------------------------------------------------------------------------------------------
 
