@@ -11,4 +11,6 @@ Could this be expanded to something intrinsically different?
 
 **Movement and dance.**
 
-These 
+These two communities share similar themes and challenges. Like the use of open source, dance can be seen as exclusive and inaccessable. Choreography acts as a key to decode movements and sequences.
+
+
