@@ -2,10 +2,16 @@
 
 Open Sourcing
 
+
+
 **An Introduction**
+
 The creative computing community is developing an awareness on the importance of pooling resources through open sourcing. With the constantly emerging field, it is clear through other communities that this collaboration is key to changing and evolving.
 
 Stripping back and exposing the working systems behind the sleek and polished surface design can be found in the physical world. It can be compared to the culinary industry, producing a meal (app) but sharing the recipe (coding) and being transparent about your process.
+
+
+**'What is design? What makes something a design problem? It's where you stand with a foot in two worlds... The world of technology and the world of people and human purpouses - and you try and bring the two together'**
 
 Could this be expanded to something intrinsically different?
 
@@ -19,5 +25,6 @@ These two worlds also collide, mixing digital and physical processes. The works 
 
 Similarly, these two communities struggle with exclusivity. Dance is taught through learning the language of notation or attending expensive lessons. This is also seen through computing, there's plenty of exposure to see the website and apps, however you have to share the codingand have specialist knowledge to understand th process.
 
+Open sourcing can allow people to collaborate, edit, change and adjust the code allowing their own personal mark and this can also be seen through dance. Dancers take elements of routines and combine them together to form new and interesting sequences. This collaboration fosters a stronger relationship between the creator and the user.
 
 
