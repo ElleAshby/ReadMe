@@ -13,6 +13,8 @@ Could this be expanded to something intrinsically different?
 
 These two communities share similar themes and challenges. Like the use of open source, dance can be seen as exclusive and inaccessable. Choreography acts as a key to decode movements and sequences. It also takes the form of graphic notation with movement being translated into a code like format(short hand). Behind every routine, the sequence of actions can be broken down into subsequent parts.
 
+![e491bde7603bd3ddefb79c1f46a88949--dance-notation-noten](https://user-images.githubusercontent.com/93981347/140948179-31906ca9-ac49-446c-b071-60f2544a5b86.jpg)
+
 
 
 
