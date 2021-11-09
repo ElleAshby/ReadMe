@@ -15,6 +15,8 @@ These two communities share similar themes and challenges. Like the use of open 
 
 ![e491bde7603bd3ddefb79c1f46a88949--dance-notation-noten](https://user-images.githubusercontent.com/93981347/140948179-31906ca9-ac49-446c-b071-60f2544a5b86.jpg)
 
+These two worlds also collide, mixing digital and physical processes. The works of Merce Cunningham explores the relationship between algorithms and sequential arrangements of movement.
+
 
 
 
