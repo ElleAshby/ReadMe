@@ -1,3 +1,8 @@
+
+<br />
+<br />
+<br />
+
 # Open Sourcing
 ---------------------------------------------------------------------------------------
 
@@ -6,15 +11,8 @@
 
 
 **The creative computing community is developing an awareness on the importance of pooling resources through open sourcing. With the constantly emerging field,
-it is clear through other communities that this collaboration is key to changing and evolving.**
-
-
-<br />
-<br />
-<br />
-
-
-Stripping back and exposing the working systems behind the sleek and polished surface design can be found in the physical world. It can be compared to the culinary industry, producing a meal (app) but sharing the recipe (coding) and being transparent about your process.
+it is clear through other communities that this collaboration is key to changing and evolving.
+<br /> Stripping back and exposing the working systems behind the sleek and polished surface design can be found in the physical world. It can be compared to the culinary industry, producing a meal (app) but sharing the recipe (coding) and being transparent about your process.**
 
 <br />
 <br />
@@ -33,7 +31,8 @@ Stripping back and exposing the working systems behind the sleek and polished su
 <br />
 
 
-**Movement and dance.**
+## Movement and Dance
+-----------
 
 These two communities share similar themes and challenges. Like the use of open source, dance can be seen as exclusive and inaccessable. Choreography acts as a key to decode movements and sequences. It also takes the form of graphic notation with movement being translated into a code like format(short hand). Behind every routine, the sequence of actions can be broken down into subsequent parts.
 
