@@ -4,14 +4,17 @@
 
 # **An Introduction**
 
->**The creative computing community is developing an awareness on the importance of pooling resources through open sourcing. With the constantly emerging field, it is clear through other communities that this collaboration is key to changing and evolving.**
+**The creative computing community is developing an awareness on the importance of pooling resources through open sourcing. With the constantly emerging field,
+it is clear through other communities that this collaboration is key to changing and evolving.**
 
 Stripping back and exposing the working systems behind the sleek and polished surface design can be found in the physical world. It can be compared to the culinary industry, producing a meal (app) but sharing the recipe (coding) and being transparent about your process.
 
 
-**'What is design? What makes something a design problem? It's where you stand with a foot in two worlds... The world of technology and the world of people and human purpouses - and you try and bring the two together'**
+> # 'What is design? What makes something a design problem? It's where you stand with a foot in two worlds... The world of technology and the world of people and human purpouses - and you try and bring the two together'
 
 Could this be expanded to something intrinsically different?
+
+--------------------------------------------------------------------------------------------
 
 **Movement and dance.**
 
