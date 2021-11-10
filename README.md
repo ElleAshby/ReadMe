@@ -10,9 +10,8 @@
 <br />
 
 
-**The creative computing community is becoming aware on the importance of pooling resources with the emergence of open sourcing. Developing at a rapid pace, this idea of open sourcing is not a new one,
-it is clear through other communities that this collaboration is key to changing and evolving.
-<br /> Stripping back and exposing the working systems behind the sleek and polished surface design can be found in the physical world. It can be compared to the culinary industry, producing a meal (app) but sharing the recipe (coding) and being transparent about your process.**
+**Developing at a rapid pace, the creative computing community is becoming aware on the importance of pooling resources with the emergence of open sourcing. However, this concept is not a new one, it is clear through other communities that this collaboration is key to evolving a network.
+<br /> Exposing the working systems behind the sleek and polished surface design can also be found in the physical world. The culinary industry is an example of this, producing a meal (app) but sharing the recipe (coding) and being transparent about your process.**
 
 <br />
 <br />
@@ -45,7 +44,7 @@ These two communities share similar themes and challenges. Like the use of open 
 
 These two worlds also collide, mixing digital and physical processes. The works of Merce Cunningham explores the relationship between algorithms and sequential arrangements of movement. 'Suite By Chance' used detailed charts which took months to complete and organise. They document actions and movements which are then processed through a series of systems to determine the order of events and connections with other movements. By removing the human interaction with choreography, the movements were changed and dehumanised, forcing the dancers to move in a more systematic and unnatural routine. The interaction between these two opposing communities is also explored through 'Double Agent'
 
-> #The algorithm finds patterns. By feeding it information from dancers, it develops its own concept of dance. Over many weeks, with the help of a supercomputer, the algorithm mapped dancer’s movements and developed its own concept of what is dancing.
+> # The algorithm finds patterns. By feeding it information from dancers, it develops its own concept of dance. Over many weeks, with the help of a supercomputer, the algorithm mapped dancer’s movements and developed its own concept of what is dancing.
 
 
 ----------------------------------------------------------------------------------------------
