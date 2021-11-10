@@ -18,7 +18,9 @@ it is clear through other communities that this collaboration is key to changing
 <br />
 <br />
 
-> # 'What is design? What makes something a design problem? It's where you stand with a foot in two worlds... The world of technology and the world of people and human purpouses - and you try and bring the two together'
+> # 'What is design? What makes something a design problem? It's where you stand with a foot in two worlds... The world of technology and the world of people and human purpouses - and you try and bring the two together' // Mitchell Kapor
+
+A Software Design Manifesto
 
 <br />
 <br />
@@ -53,4 +55,10 @@ Similarly, these two communities struggle with exclusivity. Dance is taught thro
 
 -----------------------------------------------------------------------------------------------
 
+These two vastly different communities are connected throug 
 Open sourcing can allow people to collaborate, edit, change and adjust the code allowing their own personal mark and this can also be seen through dance. Dancers take elements of routines and combine them together to form new and interesting sequences. This collaboration fosters a stronger relationship between the creator and the user.
+
+# Analogue meets digital
+
+
+
