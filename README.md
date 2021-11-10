@@ -42,7 +42,7 @@ These two communities although fundamentally different, share similar themes and
 
 ---------------------------------------------------------------------------------------------
 
-These two worlds also collide, mixing digital and physical processes. The works of Merce Cunningham explores the relationship between algorithms and sequential arrangements of movement. 'Suite By Chance' used detailed charts which took months to complete and organise. They document actions and movements which are then processed through a series of systems to determine the order of events and connections with other movements. By removing the human interaction with choreography, the movements were changed and dehumanised, forcing the dancers to move in a more systematic and unnatural routine. The interaction between these two opposing communities is also explored through 'Double Agent'
+These two worlds also collide, mixing digital and physical processes. The works of Merce Cunningham explores the relationship between algorithms and sequential arrangements of movement. 'Suite By Chance' explores the use of detailed charts which took months to complete and organise. They catagorise movements which are then processed through a series of systems to determine the connection of movements in a sequence. By removing the human interaction with choreography, the routines were adapted and dehumanised, forcing the dancers to move in a more systematic and unnatural way. The interaction between these two opposing communities is also explored through 'Double Agent', an instillation that blurs the boundaries between digital-physical interaction.
 
 > # The algorithm finds patterns. By feeding it information from dancers, it develops its own concept of dance. Over many weeks, with the help of a supercomputer, the algorithm mapped dancer’s movements and developed its own concept of what is dancing.
 
@@ -57,7 +57,7 @@ Similarly, these two communities struggle with exclusivity. Dance is taught thro
 
 -----------------------------------------------------------------------------------------------
 
-These two vastly different communities are connected throug 
+These two vastly different communities are connected through
 Open sourcing can allow people to collaborate, edit, change and adjust the code allowing their own personal mark and this can also be seen through dance. Dancers take elements of routines and combine them together to form new and interesting sequences. This collaboration fosters a stronger relationship between the creator and the user.
 
 # Analogue meets digital
