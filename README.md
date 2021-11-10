@@ -17,7 +17,7 @@
 <br />
 <br />
 
-> # 'What is design? What makes something a design problem? It's where you stand with a foot in two worlds... The world of technology and the world of people and human purpouses - and you try and bring the two together' 
+> # 'What is design? What makes something a design problem? It's where you stand with a foot in two worlds... The world of technology and the world of people and human purposes - and you try and bring the two together' 
 > Mitchell Kapor  A Software Design Manifesto
 
 
@@ -42,7 +42,7 @@ These two communities although fundamentally different, share similar themes and
 
 ---------------------------------------------------------------------------------------------
 
-These two worlds also collide, mixing digital and physical processes. The works of Merce Cunningham explores the relationship between algorithms and sequential arrangements of movement. 'Suite By Chance' explores the use of detailed charts which took months to complete and organise. They catagorise movements which are then processed through a series of systems to determine the connection of movements in a sequence. By removing the human interaction with choreography, the routines were adapted and dehumanised, forcing the dancers to move in a more systematic and unnatural way. The interaction between these two opposing communities is also explored through 'Double Agent', an instillation that blurs the boundaries between digital-physical interaction.
+These two worlds also collide, mixing digital and physical processes. The works of Merce Cunningham explores the relationship between algorithms and sequential arrangements of movement. 'Suite By Chance' explores the use of detailed charts which took months to complete and organise. They categorise movements which are then processed through a series of systems to determine the connection of movements in a sequence. By removing the human interaction with choreography, the routines were adapted and dehumanised, forcing the dancers to move in a more systematic and unnatural way. The interaction between these two opposing communities is also explored through 'Double Agent', an instillation that blurs the boundaries between digital-physical interaction.
 
 > # The algorithm finds patterns. By feeding it information from dancers, it develops its own concept of dance. Over many weeks, with the help of a supercomputer, the algorithm mapped dancer’s movements and developed its own concept of what dancing is.
 
