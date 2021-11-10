@@ -10,7 +10,7 @@
 <br />
 
 
-**Developing at a rapid pace, the creative computing community is becoming aware on the importance of pooling resources and collaboration with the emergence of open sourcing. However, this concept is not a new one, we can see this pattern of behaviour in other communities. Collaboration is key to evolving a network.
+**Developing at a rapid pace, the creative computing community is becoming aware of the importance of pooling resources and collaboration with the emergence of open sourcing. However, this concept is not a new one, we can see this pattern of behaviour in other communities. Collaboration is key to evolving a network.
 <br /> Exposing the working systems behind the sleek and polished surface design can also be found in the physical world. The culinary industry is an example of this, producing a meal (like an app) but sharing the recipe (like coding) and being transparent about your process. This willingness to share and invite change is something we should foster and nurture.**
 
 <br />
@@ -57,8 +57,8 @@ These two worlds also collide, mixing digital and physical processes. The works 
 
 -----------------------------------------------------------------------------------------------
 
-These two vastly different communities are connected through
-Open sourcing can allow people to collaborate, edit, change and adjust the code allowing their own personal mark and this can also be seen through dance. Dancers take elements of routines and combine them together to form new and interesting sequences. This collaboration fosters a stronger relationship between the creator and the user.
+
+Editing, changing and adjusting code allows others to learn through experience and others findings.  Adding, removing and rearranging elements of found routines in dance forms new and interesting sequences. This collaboration fosters a stronger relationship between the creator and the user. These two vastly different communities share essentially similar values and the role of 'Open Sourcing'. The community thrives off sharing process and promoting collaboration.
 
 # Analogue meets digital
 
