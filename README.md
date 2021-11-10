@@ -10,8 +10,8 @@
 <br />
 
 
-**Developing at a rapid pace, the creative computing community is becoming aware on the importance of pooling resources with the emergence of open sourcing. However, this concept is not a new one, it is clear through other communities that this collaboration is key to evolving a network.
-<br /> Exposing the working systems behind the sleek and polished surface design can also be found in the physical world. The culinary industry is an example of this, producing a meal (app) but sharing the recipe (coding) and being transparent about your process.**
+**Developing at a rapid pace, the creative computing community is becoming aware on the importance of pooling resources and collaboration with the emergence of open sourcing. However, this concept is not a new one, we can see this pattern of behaviour in other communities. Collaboration is key to evolving a network.
+<br /> Exposing the working systems behind the sleek and polished surface design can also be found in the physical world. The culinary industry is an example of this, producing a meal (like an app) but sharing the recipe (like coding) and being transparent about your process. This willingness to share and invite change is something we should foster and nurture.**
 
 <br />
 <br />
@@ -36,7 +36,7 @@
 ## Movement and Dance
 -----------
 
-These two communities share similar themes and challenges. Like the use of open source, dance can be seen as exclusive and inaccessable. Choreography acts as a key to decode movements and sequences. It also takes the form of graphic notation with movement being translated into a code like format(short hand). Behind every routine, the sequence of actions can be broken down into subsequent parts.
+These two communities although fundamentally different, share similar themes and challenges. Access for both computing and dance can be seen as exclusive and remote. Choreography acts as a key to decode movements and sequences. It takes the form of graphic notation with movement being translated into a visual syntax. Behind every routine, the sequence of actions can be broken down into subsequent parts. This abstraction of language and insider knowledge can be found through the use of coding.
 
 ![e491bde7603bd3ddefb79c1f46a88949--dance-notation-noten](https://user-images.githubusercontent.com/93981347/140969190-3258f7e9-64c9-4397-809c-f495a250bdff.jpg)
 
