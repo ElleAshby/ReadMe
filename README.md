@@ -42,6 +42,9 @@ These two communities although fundamentally different, share similar themes and
 
 ![e491bde7603bd3ddefb79c1f46a88949--dance-notation-noten](https://user-images.githubusercontent.com/93981347/140969190-3258f7e9-64c9-4397-809c-f495a250bdff.jpg)
 
+
+>
+
 ---------------------------------------------------------------------------------------------
 
 These two worlds also collide, mixing digital and physical processes. The works of Merce Cunningham explores the relationship between algorithms and sequential arrangements of movement. 'Suite By Chance' explores the use of detailed charts which took months to complete and organise. They categorise movements which are then processed through a series of systems to determine the connection of movements in a sequence. By removing the human interaction with choreography, the routines were adapted and dehumanised, forcing the dancers to move in a more systematic and unnatural way. The interaction between these two opposing communities is also explored through 'Double Agent', an instillation that blurs the boundaries between digital-physical interaction.
