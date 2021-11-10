@@ -10,7 +10,7 @@
 <br />
 
 
-**The creative computing community is developing an awareness on the importance of pooling resources through open sourcing. With the constantly emerging field,
+**The creative computing community is becoming aware on the importance of pooling resources with the emergence of open sourcing. Developing at a rapid pace, this idea of open sourcing is not a new one,
 it is clear through other communities that this collaboration is key to changing and evolving.
 <br /> Stripping back and exposing the working systems behind the sleek and polished surface design can be found in the physical world. It can be compared to the culinary industry, producing a meal (app) but sharing the recipe (coding) and being transparent about your process.**
 
