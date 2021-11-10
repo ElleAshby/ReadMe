@@ -58,7 +58,8 @@ These two worlds also collide, mixing digital and physical processes. The works 
 -----------------------------------------------------------------------------------------------
 
 
-Open source allows for 1.editing, 2.changing and 3.adjusting code allows others to learn through experience and others findings.  Adding, removing and rearranging elements of found routines in dance forms new and interesting sequences. This collaboration fosters a stronger relationship between the creator and the user. These two vastly different communities share essentially similar values and the role of 'Open Sourcing'. The community thrives off sharing process and promoting collaboration.
+Open source allows editing, changing and adjusting code which intern lets others to learn through experience and others findings.  Adding, removing and rearranging elements of found routines in dance forms new and interesting sequences. This collaboration fosters a stronger relationship between the creator and the user. These two vastly different communities share essential values and the role of 'Open Sourcing'. Collaboration is key for inclusivity in communities, the relationship between physical and cyber spaces are connected in more ways than anticipated. 
+
 
 # Analogue meets digital
 
