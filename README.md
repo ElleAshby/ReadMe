@@ -26,7 +26,7 @@
 <br />
 <br />
 
-## Could this be expanded to something intrinsically different?
+## Could this concept of Open Sourcing be expanded to something intrinsically different?
 
 <br />
 <br />
