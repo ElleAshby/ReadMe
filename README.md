@@ -36,7 +36,7 @@
 ## Movement and Dance
 -----------
 
-These two communities although fundamentally different, share similar themes and challenges. Access for both computing and dance can be seen as exclusive and remote. Choreography acts as a key to decode movements and sequences. It takes the form of graphic notation with movement being translated into a visual syntax. Behind every routine, the sequence of actions can be broken down into subsequent parts. This abstraction of language and insider knowledge can be found through the use of coding.
+These two communities although fundamentally different, share similar themes and challenges. Access for both computing and dance can be seen as exclusive and remote. Choreography acts as a key to decode movements and sequences. It takes the form of graphic notation - with movement being translated into a visual syntax. Behind every routine, the sequence of actions can be broken down into subsequent parts. This insider knowledge, (an abstraction of language into pictograms) is reflective of coding. These two communities struggle with exclusivity. Dance is taught through learning the language of notation or attending expensive lessons. This is also seen through computing, there's plenty of exposure to websites and apps, however a specialist knowledge is needed to understand the processes behind the design.
 
 ![e491bde7603bd3ddefb79c1f46a88949--dance-notation-noten](https://user-images.githubusercontent.com/93981347/140969190-3258f7e9-64c9-4397-809c-f495a250bdff.jpg)
 
@@ -44,12 +44,12 @@ These two communities although fundamentally different, share similar themes and
 
 These two worlds also collide, mixing digital and physical processes. The works of Merce Cunningham explores the relationship between algorithms and sequential arrangements of movement. 'Suite By Chance' explores the use of detailed charts which took months to complete and organise. They catagorise movements which are then processed through a series of systems to determine the connection of movements in a sequence. By removing the human interaction with choreography, the routines were adapted and dehumanised, forcing the dancers to move in a more systematic and unnatural way. The interaction between these two opposing communities is also explored through 'Double Agent', an instillation that blurs the boundaries between digital-physical interaction.
 
-> # The algorithm finds patterns. By feeding it information from dancers, it develops its own concept of dance. Over many weeks, with the help of a supercomputer, the algorithm mapped dancer’s movements and developed its own concept of what is dancing.
+> # The algorithm finds patterns. By feeding it information from dancers, it develops its own concept of dance. Over many weeks, with the help of a supercomputer, the algorithm mapped dancer’s movements and developed its own concept of what dancing is.
 
 
 ----------------------------------------------------------------------------------------------
 
-Similarly, these two communities struggle with exclusivity. Dance is taught through learning the language of notation or attending expensive lessons. This is also seen through computing, there's plenty of exposure to see the website and apps, however you have to share the codingand have specialist knowledge to understand th process.
+
 
 
 
