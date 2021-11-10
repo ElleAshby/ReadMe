@@ -18,9 +18,10 @@ it is clear through other communities that this collaboration is key to changing
 <br />
 <br />
 
-> # 'What is design? What makes something a design problem? It's where you stand with a foot in two worlds... The world of technology and the world of people and human purpouses - and you try and bring the two together' // Mitchell Kapor
+> # 'What is design? What makes something a design problem? It's where you stand with a foot in two worlds... The world of technology and the world of people and human purpouses - and you try and bring the two together' 
+> Mitchell Kapor  A Software Design Manifesto
 
-A Software Design Manifesto
+
 
 <br />
 <br />
