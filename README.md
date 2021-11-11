@@ -6,6 +6,8 @@
 # Open Sourcing
 ---------------------------------------------------------------------------------------
 
+![opensource-icon-8](https://user-images.githubusercontent.com/93981347/141283792-0213a421-dcfa-43e6-91a9-b484b7d1eae2.png)
+
 <br />
 <br />
 
