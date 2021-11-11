@@ -57,7 +57,7 @@ These two communities although fundamentally different, share similar themes and
 
 
 
-These two worlds also collide, mixing digital and physical processes. The works of Merce Cunningham explores the relationship between algorithms and sequential arrangements of movement. 'Suite By Chance' explores the use of detailed charts which took months to complete and organise. They categorise movements which are then processed through a series of systems to determine the connection of actions in a sequence. By removing the human interaction with choreography, the routines were adapted and dehumanised, forcing the dancers to move in a systematic and unnatural way. The interaction between these two opposing communities is also explored through 'Double Agent', an instillation that blurs the boundaries between digital-physical interaction.
+These two worlds also collide, mixing digital and physical processes. The works of Merce Cunningham explores the relationship between algorithms and sequential arrangements of movement. 'Suite By Chance' explores the use of detailed charts which took months to complete and organise. They categorise movements which are then processed through a series of systems to determine the connection of actions. By removing the human interaction with choreography, the routines were adapted and dehumanised, forcing the dancers to move in a systematic and unnatural way. The interaction between these two opposing communities is also explored through 'Double Agent', an instillation that blurs the boundaries between digital-physical interaction.
 
 
 <br />
