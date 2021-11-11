@@ -40,14 +40,13 @@
 <br />
 <br />
 <br />
-![thumb php](https://user-images.githubusercontent.com/93981347/141287307-fe8daca3-8829-46a1-b916-7ef074b93851.jpg)
 
 ## Movement and Dance
 -----------
 
-These two communities although fundamentally different, share similar themes and challenges. Access for both computing and dance can be seen as exclusive and remote. Choreography acts as a key to decode movements and sequences. It takes the form of graphic notation - with movement being translated into a visual syntax. Behind every routine, the sequence of actions can be broken down into subsequent parts. The abstraction of language into drawings is reflective of coding. These two communities struggle with exclusivity. Dance is taught through learning the language of notation or attending expensive lessons. This is also seen through computing, there's plenty of exposure to websites and apps, however a specialist knowledge is needed to understand the processes behind the design.
+These two communities although fundamentally different, share similar themes and challenges. Access for both computing and dance can be seen as exclusive and remote. Choreography acts as a key to decode movements and sequences. It takes the form of graphic notation - with movement being translated into a visual syntax. Behind every routine, the sequence of actions can be broken down into subsequent parts. The abstraction of language into drawings is reflective of coding. Dance is taught through learning the language of notation or attending expensive lessons. This is also seen through computing, there's plenty of exposure to websites and apps, however a specialist knowledge is needed to understand the processes behind the design.
 
-![e491bde7603bd3ddefb79c1f46a88949--dance-notation-noten](https://user-images.githubusercontent.com/93981347/140969190-3258f7e9-64c9-4397-809c-f495a250bdff.jpg)
+
 ![Cunningham-16](https://user-images.githubusercontent.com/93981347/141287106-34474086-70a1-4308-9051-1de8db91557a.jpg)
 
 
@@ -71,7 +70,12 @@ These two worlds also collide, mixing digital and physical processes. The works 
 -----------------------------------------------------------------------------------------------
 
 
-Open source allows editing, changing and adjusting code which intern lets others to learn through experience and others findings.  Adding, removing and rearranging elements of found routines in dance forms new and interesting sequences. This collaboration fosters a stronger relationship between the creator and the user. These two vastly different communities share essential values and the role of 'Open Sourcing'. Collaboration is key for inclusivity in communities. Physical and cyber spaces are intricately connected.
+Open source allows editing, changing and adjusting code which intern lets others to learn through experience and others findings.  Adding, removing and rearranging elements of found routines in dance forms new and interesting sequences. This collaboration fosters a stronger relationship between the creator and the user. These two vastly different communities share essential values and the role of 'Open Sourcing'. Collaboration is key for inclusivity in communities.
+
+<br />
+<br />
+Physical and cyber spaces are intricately connected,
+<br />
 
 
 # The analogue and digital worlds collide.
