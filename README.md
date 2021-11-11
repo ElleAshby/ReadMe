@@ -44,6 +44,7 @@
 These two communities although fundamentally different, share similar themes and challenges. Access for both computing and dance can be seen as exclusive and remote. Choreography acts as a key to decode movements and sequences. It takes the form of graphic notation - with movement being translated into a visual syntax. Behind every routine, the sequence of actions can be broken down into subsequent parts. The abstraction of language into drawings is reflective of coding. These two communities struggle with exclusivity. Dance is taught through learning the language of notation or attending expensive lessons. This is also seen through computing, there's plenty of exposure to websites and apps, however a specialist knowledge is needed to understand the processes behind the design.
 
 ![e491bde7603bd3ddefb79c1f46a88949--dance-notation-noten](https://user-images.githubusercontent.com/93981347/140969190-3258f7e9-64c9-4397-809c-f495a250bdff.jpg)
+![Cunningham-16](https://user-images.githubusercontent.com/93981347/141287106-34474086-70a1-4308-9051-1de8db91557a.jpg)
 
 
 >
