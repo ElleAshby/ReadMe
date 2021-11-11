@@ -12,6 +12,8 @@
 
 
 **Developing at a rapid pace, the creative computing community is becoming aware of the importance of pooling resources and collaboration with the emergence of open sourcing. However, this concept is not new, we can see this pattern of behaviour in other communities. Collaboration is key to evolving a network.
+<br />
+<br />
 <br /> Exposing the working systems behind the sleek and polished surface design can also be found in the physical world. The culinary industry is an example of this, a meal can be compared to an app and the recipe behind it, the coding. There is a level of transparency about the process. This willingness to share and invite change is a quality we should foster and nurture.**
 
 <br />
