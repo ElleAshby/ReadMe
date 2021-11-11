@@ -3,10 +3,9 @@
 <br />
 <br />
 
----------------------------------------------------------------------------------------
 
-![opensource-icon-8](https://user-images.githubusercontent.com/93981347/141284590-58772fec-7284-4d0d-a428-d42822aac9c0.png)
 
+![opensource-icon-8](https://user-images.githubusercontent.com/93981347/141286678-dade3c45-e882-4bb2-a510-0395bd0e9ea0.png)
 
 <br />
 <br />
